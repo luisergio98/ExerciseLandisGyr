@@ -1,0 +1,12 @@
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\netcoreapp3.1\ExerciseLandisGyr.exe
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\netcoreapp3.1\ExerciseLandisGyr.deps.json
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\netcoreapp3.1\ExerciseLandisGyr.runtimeconfig.json
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\netcoreapp3.1\ExerciseLandisGyr.runtimeconfig.dev.json
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\netcoreapp3.1\ExerciseLandisGyr.dll
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\netcoreapp3.1\ExerciseLandisGyr.pdb
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\netcoreapp3.1\ExerciseLandisGyr.AssemblyInfoInputs.cache
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\netcoreapp3.1\ExerciseLandisGyr.AssemblyInfo.cs
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\netcoreapp3.1\ExerciseLandisGyr.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\netcoreapp3.1\ExerciseLandisGyr.dll
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\netcoreapp3.1\ExerciseLandisGyr.pdb
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\netcoreapp3.1\ExerciseLandisGyr.genruntimeconfig.cache

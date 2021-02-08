@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\luis_\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luis_\\Documents\\Github\\ExerciseLandisGyr\\ExerciseLandisGyr\\ExerciseLandisGyr.csproj",
+      "projectUniqueName": "C:\\Users\\luis_\\Documents\\Github\\ExerciseLandisGyr\\ExerciseLandisGyr\\ExerciseLandisGyr\\ExerciseLandisGyr.csproj",
       "projectName": "ExerciseLandisGyr",
-      "projectPath": "C:\\Users\\luis_\\Documents\\Github\\ExerciseLandisGyr\\ExerciseLandisGyr\\ExerciseLandisGyr.csproj",
+      "projectPath": "C:\\Users\\luis_\\Documents\\Github\\ExerciseLandisGyr\\ExerciseLandisGyr\\ExerciseLandisGyr\\ExerciseLandisGyr.csproj",
       "packagesPath": "C:\\Users\\luis_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luis_\\Documents\\Github\\ExerciseLandisGyr\\ExerciseLandisGyr\\obj\\",
+      "outputPath": "C:\\Users\\luis_\\Documents\\Github\\ExerciseLandisGyr\\ExerciseLandisGyr\\ExerciseLandisGyr\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -29,15 +29,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -48,8 +48,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",

@@ -1,0 +1,16 @@
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\net5.0\ExerciseLandisGyr.exe
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\net5.0\ExerciseLandisGyr.deps.json
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\net5.0\ExerciseLandisGyr.runtimeconfig.json
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\net5.0\ExerciseLandisGyr.runtimeconfig.dev.json
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\net5.0\ExerciseLandisGyr.dll
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\net5.0\ref\ExerciseLandisGyr.dll
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\bin\Debug\net5.0\ExerciseLandisGyr.pdb
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\net5.0\ExerciseLandisGyr.csprojAssemblyReference.cache
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\net5.0\ExerciseLandisGyr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\net5.0\ExerciseLandisGyr.AssemblyInfoInputs.cache
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\net5.0\ExerciseLandisGyr.AssemblyInfo.cs
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\net5.0\ExerciseLandisGyr.csproj.CoreCompileInputs.cache
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\net5.0\ExerciseLandisGyr.dll
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\net5.0\ref\ExerciseLandisGyr.dll
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\net5.0\ExerciseLandisGyr.pdb
+C:\Users\luis_\Documents\Github\ExerciseLandisGyr\ExerciseLandisGyr\ExerciseLandisGyr\obj\Debug\net5.0\ExerciseLandisGyr.genruntimeconfig.cache
